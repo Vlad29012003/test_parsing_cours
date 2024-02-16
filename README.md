@@ -6,18 +6,18 @@ test_parsing_cours is a project aimed at parsing HTML content using BeautifulSou
 
 
 ## Table of Contents
-- [Technologies](#technologies)
-- [Getting Started](#getting-started)
+- [Technologies](#technologies) 🧪
+- [Getting Started](#getting-started) 
 - [Testing](#testing)
-- [Deployment and CI/CD](#deployment-and-cicd)
-- [Contributing](#contributing)
+- [Deployment and CI/CD](#deployment-and-cicd) 🚀
+- [Contributing](#contributing)  🤝
 - [To Do](#to-do)
-- [Project Team](#project-team)
+- [Project Team](#project-team) 🧑‍💻
 - [Sources](#sources)
 
 
 ## Technologies
-- Python
+- Python  🐍
 - BeautifulSoup
 
 
@@ -43,7 +43,7 @@ No specific guidelines for contributing mentioned.
 ## To Do
 1) Add comprehensive README
 2) Rewrite the entire codebase
-3) ...
+3) ... ✨
 
 # Project Team
 Filiushko Vladislav — Back-End Developer
