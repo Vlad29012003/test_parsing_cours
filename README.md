@@ -25,3 +25,29 @@ test_parsing_cours is a project aimed at parsing HTML content using BeautifulSou
 ### Installation
 ```bash
 $ pip install beautifulsoup4
+```
+
+
+## Testing
+No specific testing framework mentioned.
+
+
+## Deployment and CI/CD
+No specific deployment or CI/CD process mentioned.
+
+
+## Contributing
+No specific guidelines for contributing mentioned.
+
+
+## To Do
+1) Add comprehensive README
+2) Rewrite the entire codebase
+3) ...
+
+# Project Team
+Filiushko Vladislav — Back-End Developer
+
+
+## Sources
+No specific sources mentioned.
